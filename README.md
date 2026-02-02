@@ -27,7 +27,7 @@ JAEN (Japanese + English) is a Discord bot that automatically translates Japanes
 
 ### Setup
 ```bash
-git clone https://github.com/peaske/jaen.git
+git clone https://github.com/AXSC-Studio/jaen.git
 cd jaen
 npm install
 ```
@@ -49,6 +49,8 @@ CHANNEL_FILTER_IDS=channel1,channel2 # Optional: restrict to specific channels
 
 ### Running
 ```bash
+npm start
+# or
 node index.js
 ```
 
@@ -109,7 +111,7 @@ JAEN（Japanese + English）は、日本語メッセージを自動で英語に�
 
 ### セットアップ
 ```bash
-git clone https://github.com/peaske/jaen.git
+git clone https://github.com/AXSC-Studio/jaen.git
 cd jaen
 npm install
 ```
@@ -124,6 +126,8 @@ ALLOWED_CHANNEL_IDS=channel1,channel2 # オプション: 特定チャンネル�
 
 ### 実行
 ```bash
+npm start
+# または
 node index.js
 ```
 
@@ -184,7 +188,7 @@ JAEN（Japanese + English）是一个Discord机器人，可以自动将日语消
 
 ### 设置
 ```bash
-git clone https://github.com/peaske/jaen.git
+git clone https://github.com/AXSC-Studio/jaen.git
 cd jaen
 npm install
 ```
@@ -199,6 +203,8 @@ ALLOWED_CHANNEL_IDS=channel1,channel2 # 可选：限制到特定频道
 
 ### 运行
 ```bash
+npm start
+# 或
 node index.js
 ```
 
